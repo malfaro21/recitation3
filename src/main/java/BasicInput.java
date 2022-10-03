@@ -22,6 +22,7 @@ public class BasicInput {
 
         System.out.println(usrDouble + " cast to an integer is "+ (int)usrDouble);
 
+
         //return;
     }
 }
